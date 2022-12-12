@@ -1,7 +1,7 @@
-#Fix OpenVPN connectivity issue to VPNBook servers
+#  Fix OpenVPN connectivity issue to VPNBook servers
 
-##Having this issue when connecting to any Free VPNbook server?
-###Receiving issues like this...
+## Having this issue when connecting to any Free VPNbook server?
+### Receiving issues like this...
 ![Issue](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/OpenVPN_issue_VPNbook.png)
 
 #Solution:
