@@ -13,12 +13,11 @@ Over the last several weeks I have came accross individuals having the same issu
 ## BASH script Solution:
 1. Download and unzip an VPNbook server bundle @ [VPNbook](https://www.vpnbook.com/freevpn)
 
-2. Download fix-vpnbook.sh into the directory where VPNbook certificates were downloaded.
+2. Download fix-vpnbook.sh into the same directory where the VPNBOOK certificates were downloaded.
 
 3. Execute fix-vpnbook.sh and follow the prompts
 
-4. Upon the completion of the bash script "fix-vpnbook.sh", your newly vpnbook certificate should
-   now have the appropriate configuration setting add to your certificate.
+4. Upon the completion of the bash script "fix-vpnbook.sh", your newly vpnbook certificate should now have the appropriate configuration setting add to your certificate.
 
 5. Use OpenVPN to connect to VPNbook server using Connect to VPNbook server  
 
@@ -41,5 +40,5 @@ Over the last several weeks I have came accross individuals having the same issu
 3. Save the edits made and now use OpenVPN and the edited file to connect to VPN server.
 
 <p align="center">
-You should now be connect to a VPNbook server!
+You should now be able to connected to a VPNbook server!
 </p>
