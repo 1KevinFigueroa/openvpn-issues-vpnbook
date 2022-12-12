@@ -18,9 +18,9 @@ Over the last several weeks I have came accross individuals having the same issu
    * remote-cert-tls server
    * tls-cipher "DEFAULT:@SECLEVEL=0"
 
-   |CA config file before | CA config file after
-   |-------|------|
-   |![Config Before](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert1.png) |![Config After](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert2.png) |
+|CA config file before | CA config file after
+|-------|------|
+|![Config Before](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert1.png) |![Config After](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert2.png) |
  
 
 3. Save the edits made and now use OpenVPN and the edited file to connect to VPN server.
@@ -37,4 +37,4 @@ Over the last several weeks I have came accross individuals having the same issu
 
 5. Use OpenVPN to connect to VPNbook server using Connect to VPNbook server  
 
-You should now be connect to a VPNbook server
+<center>You should now be connect to a VPNbook server!</center>
