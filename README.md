@@ -20,7 +20,7 @@ Over the last several weeks I have came accross individuals having the same issu
 
    |CA config file before | CA config file after
    |-------|------|
-   |(https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert1.png) | (https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert2.png) |
+   |![Config Before](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert1.png) |![Config After] (https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert2.png) |
    |------|------|
 
 3. Save the edits made and now use OpenVPN and the edited file to connect to VPN server.
