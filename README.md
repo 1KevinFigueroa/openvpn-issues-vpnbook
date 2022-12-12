@@ -2,7 +2,7 @@
 
 ##Having this issue when connecting to any Free VPNbook server?
 ###Receiving issues like this...
-![Error Message]<img scr="../images/OpenVPN_issue_VPNbook.png">
+![Error Message]<img scr="https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/OpenVPN_issue_VPNbook.png">
 
 #Solution:
 Step1: Download and unzip an VPNbook server bundle
