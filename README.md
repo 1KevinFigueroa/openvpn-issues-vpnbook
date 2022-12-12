@@ -4,7 +4,7 @@
 ### Receiving issues like this...
 ![Issue](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/OpenVPN_issue_VPNbook.png)
 
-<p>Over the last several weeks I have come accross individuals having issues with OpenVPN connecting to ![VPNbook](https://www.vpnbook.com/freevpn) server.  </p>
+Over the last several weeks I have come accross individuals having issues with OpenVPN connecting to [VPNbook](https://www.vpnbook.com/freevpn) server.
 
 # Solution:
 1. Download and unzip an VPNbook server bundle
