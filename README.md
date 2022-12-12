@@ -13,7 +13,7 @@ Over the last several weeks I have came accross individuals having the same issu
 ## BASH script Solution:
 1. Download and unzip an VPNbook server bundle @ [VPNbook](https://www.vpnbook.com/freevpn)
 
-2. Download fix-vpnbook.sh into the same directory where the VPNBOOK certificates were downloaded.
+2. Download and unzip fix-vpnbook.sh into the same directory where the VPNBOOK certificates were downloaded.
 
 3. Execute fix-vpnbook.sh and follow the prompts
 
