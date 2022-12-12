@@ -40,5 +40,6 @@ Over the last several weeks I have came accross individuals having the same issu
 
 3. Save the edits made and now use OpenVPN and the edited file to connect to VPN server.
 
-
-<p style="text-align: center;">You should now be connect to a VPNbook server!</p>
+<p align="center">
+You should now be connect to a VPNbook server!
+</p>
