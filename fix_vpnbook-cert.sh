@@ -19,4 +19,3 @@ commPWD+=$fileName
 echo "Path file to modified .ovpn file: $commPWD"
 sed -i "14 i $newCiphers\n$rts\n$tlsCipher" $commPWD
 echo "File insert process complete!" 
-#read -p "continue? (y/n)" confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
