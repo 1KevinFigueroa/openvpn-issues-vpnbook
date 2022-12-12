@@ -3,7 +3,7 @@
 ## Having this issue when connecting to any Free VPNbook server?
 
 
-Over the last several weeks I have came accross individuals having the same issues with OpenVPN connecting to VPN server provided by [VPNbook](https://www.vpnbook.com/freevpn). This Free VPN service provide by VPNbook.com will allow a user to download 8 different types of VPN bundles, which allows the user to connect to VPN server using OpenVPN. However, when attempting to connect to a vpnbook VPN server the follow error message appears...
+Over the last several weeks I have came accross individuals having the same issues with OpenVPN connecting to VPN server provided by [VPNbook](https://www.vpnbook.com/freevpn). This Free VPN service provide by VPNbook.com will allow a user to download 8 different types of VPN bundles, which allows the user to connect to VPN server using OpenVPN. However, when attempting to connect to a vpnbook VPN server the follow error message appears... \
 ![Issue](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/OpenVPN_issue_VPNbook.png)
 
 
