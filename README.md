@@ -4,7 +4,7 @@
 
 This Free VPN service provide by VPNbook.com will allow a user to download 8 different types of VPN bundles, which allows the user to connect to VPN server using OpenVPN.[VPNbook](https://www.vpnbook.com/freevpn) provides different VPN bundles pack that users can download and each VPN bundles contain about 3 or 4 different certificates allowing users to connect to VPN servers in Poland, Denmark, France, US, and Canada. 
 
-Over the last several weeks I have came accross individuals having the same issues with OpenVPN connecting to VPN server provided by [VPNbook](https://www.vpnbook.com/freevpn). The "ISSUE" I notice are individuals are experiencing compression troubles, deprecated option with --cipher, and cannot load inline certificate. However, when attempting to connect to any VPNBOOK VPN server the follow error message appears...
+Over the last several weeks I have came accross individuals having the same issues with OpenVPN connecting to VPN server provided by [VPNbook](https://www.vpnbook.com/freevpn). The ***ISSUE*** I notice are individuals are experiencing compression troubles, deprecated option with --cipher, and cannot load inline certificate. However, when attempting to connect to any VPNBOOK VPN server the follow error message appears...
 
 ![Issue](https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/OpenVPN_issue_VPNbook.png)
 
@@ -17,6 +17,11 @@ Over the last several weeks I have came accross individuals having the same issu
    * data-ciphers AES-256-CBC:AES-256-GCM:AES-128-GCM:CHACHA20-POLY1305
    * remote-cert-tls server
    * tls-cipher "DEFAULT:@SECLEVEL=0"
+
+   |CA config file before | CA config file after
+   |-------|------|
+   |(https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert1.png) | (https://github.com/1KevinFigueroa/openvpn-issues-vpnbook/blob/main/images/manualInsert2.png) |
+   |------|------|
 
 3. Save the edits made and now use OpenVPN and the edited file to connect to VPN server.
 
