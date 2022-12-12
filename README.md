@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Fix OpenVPN connectivity issue to VPNBook servers
+=======
+#  Fix OpenVPN connectivity issue to VPNBook servers
+>>>>>>> fad8205b3b7a06e8a6d36d9fb7b6dc086b4a6e25
 
 ## Having this issue when connecting to any Free VPNbook server?
 ### Receiving issues like this...
