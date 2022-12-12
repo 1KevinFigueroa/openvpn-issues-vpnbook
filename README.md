@@ -1,10 +1,10 @@
-Fix OpenVPN connectivity issue to VPNBook servers
+#Fix OpenVPN connectivity issue to VPNBook servers
 
-Having this issue when connecting to any Free VPNbook server?
-Receiving issues like this...
-<img scr="/images/OpenVPN_issue_VPNbook.png">
+##Having this issue when connecting to any Free VPNbook server?
+###Receiving issues like this...
+![Error Message]<img scr="../images/OpenVPN_issue_VPNbook.png">
 
-I have the fix:
+#Solution:
 Step1: Download and unzip an VPNbook server bundle
 Step2: Download fix-vpnbook.sh into the directory where VPNbook certificates were downloaded.
 Step3: execute fix-vpnbook.sh and follow the prompts
